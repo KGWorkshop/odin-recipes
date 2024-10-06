@@ -1,0 +1,42 @@
+.title {
+    color: #ee6c4d;
+    font-family: Georgia, serif;
+    text-align: center;
+    font-size: 48px;
+}
+
+.header {
+    color: #ee6c4d;
+    font-family: Georgia, serif;
+    text-align: center;
+    font-size: 24px;
+}
+
+body {
+    background-color: #98c1d9;
+}
+
+p {
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+    height: 380px;
+    width: auto;
+    padding: 25px 25px 25px 25px;
+}
+
+ul {
+    font-family: Georgia, serif;
+    text-align: center;
+    list-style-type: none;
+}
+
+ol {
+    font-family: Georgia, serif;
+    text-align: center;
+    list-style-type: none;
+}
