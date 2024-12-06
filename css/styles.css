@@ -27,11 +27,11 @@ p {
 }
 
 img {
-    margin: auto;
+    margin: 25px auto;
     display: block;
     height: 380px;
     width: auto;
-    padding: 25px;
+    border: 3px solid black;
 }
 
 ul {
@@ -45,13 +45,6 @@ ol {
     text-align: center;
     list-style-type: none;
 }
-
-/* .links {
-    margin-left: auto;
-    text-align: center;
-    font-size: 22px;
-    display: inline-block;
-} */
 
 li a {
     text-decoration: none;
