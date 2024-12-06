@@ -1,3 +1,8 @@
+* {
+    margin: 0px;
+    display: block;
+}
+
 .title {
     color: #ee6c4d;
     font-family: Georgia, serif;
@@ -26,7 +31,7 @@ img {
     display: block;
     height: 380px;
     width: auto;
-    padding: 25px 25px 25px 25px;
+    padding: 25px;
 }
 
 ul {
@@ -39,4 +44,23 @@ ol {
     font-family: Georgia, serif;
     text-align: center;
     list-style-type: none;
+}
+
+/* .links {
+    margin-left: auto;
+    text-align: center;
+    font-size: 22px;
+    display: inline-block;
+} */
+
+li a {
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    background-color: #ee6c4d;
+    display: inline-block;
+    font-size: 22px;
+    width: 185px;
 }
